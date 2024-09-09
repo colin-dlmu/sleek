@@ -1,4 +1,5 @@
 # SITE CONFIGURATION
+theme: jekyll-sleek
 title: Sleek # your site title
 author: GitHub User # You :P
 description: > # Meta description of Homepage
